@@ -1,13 +1,11 @@
 +++
-title = "About me"
+title = "Über uns"
 draft = false
-description = ""
 image = ""
+description = ""
 +++
-![](/img/default-author.jpg)
+![]()
 
-## My Name
+Leutwylers
 
-mail@example.org
-
-Here should be some info about me...
+Wir lernen.
